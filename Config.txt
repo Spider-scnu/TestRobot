@@ -3,7 +3,7 @@ Period:1000
 PeriodNumber:1000000
 OpenBulletScreen:1
 OpenGrid:1
-DesignResolutionSize:500
+DesignResolutionSize:800
 GridColor:59,32,12
 ObstacleColor:128,128,128
 BulletColor:255,0,0
